@@ -8,7 +8,6 @@ dados = [[],[]]
 pop = []
 media = 45
 desvio = 20
-inicio, fim = 0, 1
 tam = 10
 z = 0
 
